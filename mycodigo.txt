@@ -1,1 +1,2 @@
 Olá meu nome é Wandick
+Esta linha vai ficar caracterizada com a 2a. versão deste arquivo.
